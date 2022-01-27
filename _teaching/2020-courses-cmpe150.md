@@ -7,14 +7,3 @@ venue: "Bogazici University, Department of Computer Engineering"
 date: 2020/09/09
 location: "Istanbul, Turkey"
 ---
-
-
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
